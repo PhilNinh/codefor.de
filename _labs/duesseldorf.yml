@@ -4,5 +4,30 @@ title: OK Lab Düsseldorf
 lab: OK Lab Düsseldorf
 lat: 51.227741
 long: 6.773456
-markerposition: left
-showsignup: true
+markerposition: right
+showsignup: false
+
+links:
+- name: Mailingliste
+  url: https://lists.okfn.org/mailman/listinfo/codeforduesseldorf
+- name: Etherpad
+  url: https://pad.okfn.org/p/Kick-Off_OK_Lab_D%C3%BCsseldorf
+- name: Meetup
+  url: http://www.meetup.com/de-DE/OK-Lab-Dusseldorf/
+- name: Twitter
+  url: https://twitter.com/codefordus
+- name: Facebook
+  url: https://www.facebook.com/codefordus/
+- name: Tumblr
+  url: http://codefordus.tumblr.com/
+
+
+leads:
+- name: Stefan
+  url: mailto:stefan.mueller@gruene-duesseldorf.de
+- name: Christian
+  url: mailto:knebel@publicplan.de
+- name: Phil
+  url: mailto:philninh@gmail.com
+- name: Carsten
+  url: mailto:ch@carstenheisterkamp.com
